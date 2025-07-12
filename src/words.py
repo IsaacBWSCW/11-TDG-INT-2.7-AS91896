@@ -1,4 +1,4 @@
-all_words = [
+all_words = [ # All possible words (Ripped from wordle website code)
   "aahed",
   "aalii",
   "aapas",
@@ -14856,7 +14856,7 @@ all_words = [
   "augur"
 ]
 
-answers = [
+answers = [ # All possible answers from the old wordle website (Not used and not guaranteed to be accurate)
   "cigar",
   "rebut",
   "sissy",
